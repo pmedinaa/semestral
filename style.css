@@ -1,0 +1,198 @@
+
+
+.cuadroPrincipal_tituloPrin{
+    color: rgb(255, 255, 255);
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: rgb(255, 255, 255);
+     font-size: 40px;
+     margin-top: 50px;
+     margin-bottom: 0%;
+     text-align: center;
+     align-items: center;
+     margin-right: 200px;
+}
+
+
+.cuadroPrincipal_Texto{
+     color: rgb(255, 251, 254);
+     font-size: 15px;
+     margin-left:200px; 
+     margin-right:400px;
+     text-align: center;
+     margin-bottom: 10px;
+ }
+
+.music{
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    text-align: center;
+    font-size:20px;
+    margin-right: 200px;
+
+}
+
+.parte_dos{
+    text-align:center;
+    background-color: rgb(65, 67, 67);
+}
+
+.titulo_dos{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.top-boton{
+    text-align: center;
+    color:black;
+    background-color: brown;
+}
+
+.info_dos{
+    text-align: center;
+    color: azure;
+}
+
+.informacion_dos{
+    text-align: center;
+    color: azure;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.info_abajodos{
+    text-align: center;
+    color:azure;
+}
+
+
+.cuadroPrincipal{
+    text-align: center;
+    color: azure;
+    background-image: url(guitar-people-man-black-and-white.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 10%;
+   
+}
+
+.parte_tres{
+    background-color: rgb(255, 255, 255);
+}
+
+.titulo_tres{
+    text-align: center;
+    color: black;
+    
+}
+
+.info_tres{
+    text-align: center;
+    justify-content: center;
+    color: black;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.b_tres{
+    
+    color: rgb(255, 255, 255);
+    background-color:rgb(66, 66, 227);
+    justify-content: center;
+    margin-left: 560px;
+}
+
+.imagen_tres{
+    justify-content: center;
+   margin-left:200px;
+   margin-right: 200px;
+}
+
+.parte_cuatro{
+    text-align: center;
+    color: azure;
+    background-image: url(music.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.titulo_cuatro{
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    text-align: center;
+}
+
+.info_cuatro{
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.titulo_cinco{
+    color: black;
+    text-align: right;
+    margin-right: 450px;
+    margin-top: 0px;
+}
+
+.contenedorMain__img{
+    height: 340px;
+    justify-content: left;
+}
+
+
+.bg-light {
+    background-color: #f4f4f4;
+}
+
+.grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1rem;
+    text-align: left;
+}
+
+
+.grid-item {
+    padding: 1rem;
+}
+  
+
+.container {
+    max-width: 1180px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 3rem;
+}
+
+.red{
+    text-decoration: none;
+}
+
+.ejemplos{
+    background-color: rgb(30, 29, 29);
+}
+.ejemplos-cards{
+    display: flex;
+}
+.ejemplos-cards2{
+    margin :2% 1%;
+    background-color: rgb(30, 29, 29);
+
+}
+.cards-info{
+    text-align: center;
+    margin: 15%;
+    color: aliceblue;
+}
+.cards-fotos{
+    width: 100%;
+}
+.cards-info-title{
+    padding: 5%;
+    align-items: center;
+    color: aliceblue;
+}
